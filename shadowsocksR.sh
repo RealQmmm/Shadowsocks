@@ -277,7 +277,7 @@ function install_ss(){
 	fi
 }
 
-#锟侥成憋拷锟斤拷时锟斤拷
+#改成北京时间
 # function check_datetime(){
 	# rm -rf /etc/localtime
 	# ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
